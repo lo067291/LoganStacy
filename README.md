@@ -50,10 +50,20 @@ My personal GitHub profile README - Computer Engineering student @ UCF specializ
 
 ## 🚀 Featured Projects
 
-*Coming soon - building portfolio projects throughout Summer 2026*
+### 🛡️ Network Security Homelab
+Defense-grade network with pfSense, Snort IDS/IPS, 
+and full penetration testing
+[View Project →](https://github.com/lo067291/Network-Security-Homelab)
 
----
+### 🤖 ML Network Intrusion Detection
+99.86% accurate attack detection using Random Forest 
+on 125,973 network records
+[View Project →](https://github.com/lo067291/Machine-Learning-Intrusion-Detection)
 
+### 🐍 C to Python Data Structures
+Core data structures ported from C to Python with 
+complexity analysis
+[View Project →](https://github.com/lo067291/c-to-python-transition)
 ## 📫 Connect With Me
 LinkedIn: www.linkedin.com/in/logan-stacy
 Personal Email: ycats20000@gmail.com
